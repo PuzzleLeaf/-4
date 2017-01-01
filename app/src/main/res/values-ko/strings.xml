@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="banner_ad_unit_id">ca-app-pub-9337170500687958/9649417025</string>
+    <string name="ad_unit_id">ca-app-pub-9337170500687958/2126150220</string>
+    <string name="theme_title">커스텀 핑크</string>
+    <string name="app_name">커스텀 핑크</string>
+    <string name="make_icon">아이콘으로 사용하기</string>
+    <string name="apply">적용하기</string>
+</resources>

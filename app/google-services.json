@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "112943667645",
+    "firebase_url": "https://pinktheme-d81e6.firebaseio.com",
+    "project_id": "pinktheme-d81e6",
+    "storage_bucket": "pinktheme-d81e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112943667645:android:2e414313730f4179",
+        "android_client_info": {
+          "package_name": "puzzleleaf.tistory.com.custompinktheme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112943667645-vcj5q7h8sbq6umhm6d2vaqaoorophuh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMSBpGufsch_3H3pY3vRaCOmebmnsjkjo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

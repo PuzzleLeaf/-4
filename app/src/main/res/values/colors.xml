@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- <color name="default_list_background">#ffaacc</color> -->
+    <color name="default_list_background">#66ffffff</color> <!-- 전체적인 일반 리스트 색상 -->
+    <color name="default_list_selected_background">#ffe1e6</color> <!-- 리스트 클릭시 색상 -->
+    <color name="knotification_list_unread_background">#ccfffddd</color>
+    <color name="default_list_section_header_bg">#66ffffff</color>
+    <color name="more_function_item_backgroud">#ffffff</color><!-- 더 보기 영역 -->
+    <color name="more_function_item_selected_backgroud">#ffe1e6</color>
+    <color name="font_white">#ffffff</color>
+    <color name="font_black">#000000</color>
+    <color name="minipf_visit_plus_home">#ffffff</color>
+    <color name="minipf_plus_friends_count">#ffffff</color>
+    <color name="chat_room_unread">#000000</color>
+    <!-- 이하 4.0 추가 스펙 -->
+    <color name="recommendlist_description_font">#877269</color>
+    <color name="chatlist_message_time_font">#aa9b95</color>
+    <color name="thm_chatroom_grid_menu_font_color">#f3f1f1</color>
+
+
+
+    <color name="action_bar_done_font_normal">#FFFFFF</color><!-- 뭐지 ? -->
+    <color name="action_bar_done_font_pressed">#006003</color>
+    <color name="action_bar_done_font_disabled">#ffffff</color>
+
+    <color name="chatroom_grid_menu_button_bg_normal">#ff775f55</color><!-- 뭐지?? -->
+    <color name="chatroom_grid_menu_button_bg_pressed">#ff64493e</color>
+
+    <color name="chatroom_spam_alert_button_bg_normal">#ff775f55</color>
+    <color name="chatroom_spam_alert_button_bg_pressed">#ff64493e</color>
+
+    <color name="thm_action_bar_title_font_color">#ffffff</color>
+    <color name="thm_general_searchbox_font_color">#62493f</color>
+
+    <color name="thm_chatroom_grid_menu_bg_color">#ff775f55</color><!-- 뭐지? -->
+    <color name="thm_chatroom_grid_menu_button_divider_color">#7f5a3d32</color>
+    <color name="thm_chatroom_spam_alert_view_bg_color">#ff775f55</color>
+
+    <color name="thm_recommendation_menu_tab_padding_color">#ccc3bd</color>
+
+    <color name="thm_broadcast_picker_tab_font_color_selected">#ffffff</color>
+    <color name="thm_broadcast_picker_tab_font_color_normal">#543F3F</color>
+
+    <color name="thm_directshare_popup_message">#64493E</color>
+    <color name="thm_directshare_popup_info">#3A9014</color>
+
+    <color name="thm_add_friend_font_color">#62493f</color>
+</resources>

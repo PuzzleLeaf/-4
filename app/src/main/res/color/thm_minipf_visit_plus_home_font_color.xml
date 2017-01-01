@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- 플러스친구미니프로필의 홈방문하기 글자색을 정의합니다.
+
+@android:color=여기부분에는 색을 직접 #f0fff0이렇게 정의할수도 있고,
+@color/font_blue 이렇게 참조값으로 정의할수도 있습니다.
+@color/font_blue 라고 정의했다면 value폴더 밑의 color.xml파일에 
+<color name="font_blue">#3382b7</color>로 정의되어 있어야 합니다. 
+
+    true로 되어 있는 부분은 내가 해당부분을 선택했을때 나타나는 색상입니다.
+    true로 정의되어 있지 않은 부분은 선택하지 않았을때 일반적인 상태일때 나타나는 색상입니다.
+    
+    true로 정의되어 있는 부분은 모두 같은 색으로 정의해주시길 바랍니다.    -->
+    <item android:state_checked="true" android:color="#ffffff"/>
+    <item android:state_selected="true" android:color="#ffffff"/>
+    <item android:state_focused="true" android:color="#ffffff"/>
+    <item android:state_pressed="true" android:color="#ffffff"/>
+    <item android:color="#ffffff"/>
+
+</selector>

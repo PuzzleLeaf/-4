@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- 앱의 최상단에 존재하는 타이틀 색상을 정의합니다.
+
+@android:color=여기부분에는 색을 직접 #f0fff0이렇게 정의할수도 있고
+@color/font_blue 이렇게 참조값으로 정의할수도 있습니다.
+-->
+    <item android:color="#ff8e8e"/>
+</selector>

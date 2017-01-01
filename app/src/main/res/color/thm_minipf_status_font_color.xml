@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- 미니프로필의 상태 메시지 폰트색입니다.
+
+미니프로필 동기화 해당파일
+@android:color=여기부분에는 색을 직접 #f0fff0이렇게 정의해주세요.
+
+    -->
+    <item android:state_checked="true" android:color="#acd373"/>
+    <item android:state_selected="true" android:color="#acd373"/>
+    <item android:state_focused="true" android:color="#acd373"/>
+    <item android:state_pressed="true" android:color="#acd373"/>
+    <item android:color="#acd373"/>
+
+</selector>
