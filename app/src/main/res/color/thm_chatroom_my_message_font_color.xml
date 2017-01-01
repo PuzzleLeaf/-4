@@ -12,9 +12,9 @@ true로 정의되어 있지 않은 부분은 선택하지 않았을때 일반적
 true로 정의되어 있는 부분은 모두 같은 색으로 정의해주시길 바랍니다.
     -->
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:state_checked="true" android:color="#762426" />
-    <item android:state_selected="true" android:color="#762426"/>
-    <item android:state_focused="true" android:color="#762426"/>
-    <item android:state_pressed="true" android:color="#762426"/>
-    <item android:color="#762426"/>
+    <item android:state_checked="true" android:color="#000000" />
+    <item android:state_selected="true" android:color="#000000"/>
+    <item android:state_focused="true" android:color="#000000"/>
+    <item android:state_pressed="true" android:color="#000000"/>
+    <item android:color="#000000"/>
 </selector>
