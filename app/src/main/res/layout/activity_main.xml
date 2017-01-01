@@ -37,7 +37,7 @@
             android:textSize="15sp"
             android:layout_marginBottom="4dp"
             android:background="#FFFFE1E6"
-            android:text="나만의 테마 만들기" />
+            android:text="나만의 테마 만들기(준비중)" />
 
         <Button
             android:layout_width="330dp"
@@ -52,7 +52,7 @@
             android:id="@+id/apply_button"
             android:layout_width="330dp"
             android:layout_height="30dp"
-            android:textColor="#c89aa1"
+            android:textColor="#a67e84"
             android:background="#FFFFE1E6"
             android:text="@string/apply"
             android:textSize="15sp" />

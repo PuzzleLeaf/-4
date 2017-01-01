@@ -51,6 +51,12 @@ public class Splash extends AppCompatActivity {
                     startActivity(intent);
                     finish();
                 }
+
+                @Override
+                public void onAdFailedToLoad(int i) {
+                    Toast.makeText(getApplicationContext(),"네트워크 에러 발생",Toast.LENGTH_LONG).show();
+                    finish();
+                }
             });
             if (!mInterstitialAd.isLoading() && !mInterstitialAd.isLoaded()) {
                 AdRequest adRequest = new AdRequest.Builder().build();

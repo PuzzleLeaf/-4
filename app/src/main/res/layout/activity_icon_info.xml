@@ -9,15 +9,14 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#FFE1E6"
+        android:background="#ffc2ce"
         android:gravity="center"
         android:layout_weight="3">
-        <TextView
+        <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="아이콘으로 사용하는 방법"
-            android:textSize="18sp"
-            android:textColor="#ac6868"/>
+            android:tint="#ffffff"
+            android:src="@drawable/top"/>
     </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
@@ -55,13 +54,13 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#FFE1E6"
+        android:background="#ffc2ce"
         android:gravity="center"
         android:layout_weight="3">
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textColor="#a67e84"
+            android:textColor="#8d676e"
             android:id="@+id/makeIcon"
             android:textSize="15sp"
             android:text="적용"
