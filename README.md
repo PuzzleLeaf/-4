@@ -1,2 +1,1 @@
-# -4
-KakaoTalk theme
+#카카오톡 테마 만들기
